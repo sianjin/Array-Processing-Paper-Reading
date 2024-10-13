@@ -71,7 +71,7 @@ For RS detector simulation, please refer to https://github.com/merlresearch/mimo
 <!-- DOA -->
 ## DOA Estimation
 
-
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTACT -->
 ## Contact
