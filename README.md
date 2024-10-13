@@ -30,7 +30,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#array">Array</a></li>
-    <li><a href="#DOA-estimation">DOA Estimation</a></li>
+    <li><a href="#super-resolution-DOA-estimation">Super-Resolution DOA Estimation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -48,28 +48,16 @@ This project aims at listing milestones in phased array systems and related sign
 <!-- ARRAY -->
 ## Array
 
-Two folders of simulation code can generate different levels of the simulation data and different types of simulation results:
-
-* The "Synthetic Data" folder contains the code to generate synthetic data for receiver operating characteristic (ROC) curve simulation. 
-
-* The "System-level Data" folder contains the code to generate system-level simulation data for angle/range-angle spectrum visualization and output interference power calculation.
-
-The two folders include the implementation detail of following schemes:
-
 * Angle FFT
 * Clairvoyant
 * Linear constraint minimum variance (LCMV) with sample matrix inversion (SMI)
 * GS
 * Adaptive GS (AGS)
 
-Please refer to the the ReadMe.m file in the "Synthetic Data" folder and "System-level Data" subfolders for more detail of the code information.
-
-For RS detector simulation, please refer to https://github.com/merlresearch/mimo-fmcw-mim
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DOA -->
-## DOA Estimation
+## Super-Resolution DOA Estimation
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
