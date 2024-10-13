@@ -61,6 +61,7 @@ This project aims at listing milestones in phased array systems and related sign
 <!-- DOA -->
 ## Traditional Super-Resolution
 
+# Narrowband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
