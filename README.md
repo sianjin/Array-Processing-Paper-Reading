@@ -54,7 +54,7 @@ This project aims at listing milestones in phased array systems and related sign
 ## Super-Resolution DOA Estimation
 
 | Year  | Name  | Short Description |
-| :------------ |:---------------:| -----:|
+| :------------ |:---------------:| ---------------:|
 | 1986      | MUSIC | Super-resolution based on covariance estimation |
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
