@@ -69,7 +69,7 @@ This project aims at listing milestones in phased array systems and related sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SPARSE -->
-## Sparse Array Processing
+## Sparse Processing
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
