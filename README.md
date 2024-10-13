@@ -48,16 +48,16 @@ This project aims at listing milestones in phased array systems and related sign
 <!-- ARRAY -->
 ## Array
 
-* Angle FFT
-* Clairvoyant
-* Linear constraint minimum variance (LCMV) with sample matrix inversion (SMI)
-* GS
-* Adaptive GS (AGS)
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DOA -->
 ## Super-Resolution DOA Estimation
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
