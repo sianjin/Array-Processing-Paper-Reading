@@ -53,11 +53,11 @@ This project aims at listing milestones in phased array systems and related sign
 <!-- DOA -->
 ## Super-Resolution DOA Estimation
 
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| Year  | Name  | Short Description |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
+| 1986      | MUSIC | Super-resolution based on covariance estimation |
+|       | centered        |   $12 |
+|  | are neat        |    $1 |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
