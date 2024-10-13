@@ -29,11 +29,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li>
-      <a href="#prerequisites">Prerequisites</a>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#license">License</a></li>
+    <li><a href="#array">Array</a></li>
+    <li><a href="#DOA">DOA Estimation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -43,25 +40,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project contains part of the simulation code for generating the figures in our project Paper: “Spatial-Domain Mutual Interference Mitigation for MIMO-FMCW Automotive Radar", accepted by IEEE TVT.
+This project aims at listing milestones in phased array systems and related signal processing algorithms.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
-<!-- GETTING STARTED -->
-## Prerequisites
-
-* The simulation code based on synthetic data generation requires MATLAB. The version of MATLAB 2024a is used when running the code in our project.
-
-* The system-level simuation code requires MATLAB Phased Array System Toolbox. 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
+<!-- ARRAY -->
+## Array
 
 Two folders of simulation code can generate different levels of the simulation data and different types of simulation results:
 
@@ -83,13 +68,8 @@ For RS detector simulation, please refer to https://github.com/merlresearch/mimo
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<!-- DOA -->
+## DOA Estimation
 
 
 
@@ -97,8 +77,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Sian Jin - sianjin.mathworks@gmail.com
-
-Project Paper: “Spatial-Domain Mutual Interference Mitigation for MIMO-FMCW Automotive Radar", accepted by IEEE TVT.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
