@@ -29,8 +29,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#array">Array</a></li>
-    <li><a href="#super-resolution-DOA-estimation">Super-Resolution DOA Estimation</a></li>
+    <li><a href="#review">Array</a></li>
+    <li><a href="#super-resolution-doa-estimation">Super-Resolution DOA Estimation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -45,8 +45,14 @@ This project aims at listing milestones in phased array systems and related sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-<!-- ARRAY -->
-## Array
+<!-- Review -->
+## Review
+
+| Year  | Name  | Short Description |
+| :------------ |:---------------:| :---------------:|
+| 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) |  |
+|       |         |    |
+|  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,8 +62,8 @@ This project aims at listing milestones in phased array systems and related sign
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
-|       | centered        |   $12 |
-|  | are neat        |    $1 |
+|       |         |    |
+|  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
