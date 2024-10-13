@@ -29,8 +29,9 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#review">Array</a></li>
-    <li><a href="#super-resolution-doa-estimation">Super-Resolution DOA Estimation</a></li>
+    <li><a href="#review">Review</a></li>
+    <li><a href="#traditional-super-resolution">Traditional Super-Resolution</a></li>
+    <li><a href="#sparse-processing">Sparse Processing</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -57,11 +58,22 @@ This project aims at listing milestones in phased array systems and related sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- DOA -->
-## Super-Resolution DOA Estimation
+## Traditional Super-Resolution
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
+|       |         |    |
+|  |       |    |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SPARSE -->
+## Sparse Array Processing
+
+| Year  | Name  | Short Description |
+| :------------ |:---------------:| :---------------:|
+|       |  |  |
 |       |         |    |
 |  |       |    |
 
