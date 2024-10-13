@@ -32,6 +32,7 @@
     <li><a href="#review">Review</a></li>
     <li><a href="#traditional-super-resolution">Traditional Super-Resolution</a></li>
     <li><a href="#sparse-processing">Sparse Processing</a></li>
+    <li><a href="#deep-learning">Deep Learning</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -70,6 +71,17 @@ This project aims at listing milestones in phased array systems and related sign
 
 <!-- SPARSE -->
 ## Sparse Processing
+
+| Year  | Name  | Short Description |
+| :------------ |:---------------:| :---------------:|
+|       |  |  |
+|       |         |    |
+|  |       |    |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LEARNING -->
+## Deep Learning
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
