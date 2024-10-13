@@ -54,8 +54,8 @@ This project aims at listing milestones in phased array systems and related sign
 ## Super-Resolution DOA Estimation
 
 | Year  | Name  | Short Description |
-| :------------ |:---------------:| ---------------:|
-| 1986      | MUSIC | Super-resolution based on covariance estimation |
+| :------------ |:---------------:| :---------------:|
+| 1986      | MUSIC | First subspace method |
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
 
