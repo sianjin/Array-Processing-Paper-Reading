@@ -30,7 +30,7 @@
       <a href="#about-the-project">About The Project</a>
     </li>
     <li><a href="#array">Array</a></li>
-    <li><a href="#DOA">DOA Estimation</a></li>
+    <li><a href="#DOA-estimation">DOA Estimation</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
