@@ -55,7 +55,7 @@ This project aims at listing milestones in phased array systems and related sign
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-| 1986      | MUSIC | First subspace method |
+| 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
 |       | centered        |   $12 |
 |  | are neat        |    $1 |
 
