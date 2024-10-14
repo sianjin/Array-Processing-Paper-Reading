@@ -25,7 +25,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project aims at listing milestones in phased array systems and related signal processing algorithms.
+This project aims at listing milestones in array signal processing algorithms.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -82,7 +82,7 @@ This project aims at listing milestones in phased array systems and related sign
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 |   2002    | [Convex](https://ieeexplore.ieee.org/document/558465) | QP and SOCP |
-|       |         |    |
+|  2014     |   [MU Tx Beamforming](https://ieeexplore.ieee.org/document/6832894)      |    |
 |  |       |    |
 
 <!-- SPARSE -->
