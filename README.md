@@ -79,7 +79,7 @@ This project aims at listing milestones in phased array systems and related sign
 #### Wideband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-| 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
+| 2015      | [SpotFi](https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf) | |
 |       |         |    |
 |  |       |    |
 
