@@ -33,7 +33,7 @@
       <a href="#review">Review</a>
     </li>
     <li>
-      <a href="#traditional-super-resolution">Traditional Super-Resolution</a>
+      <a href="#covariance-matrix-based">Covariance Matrix Based</a>
       <a href="#sparse-processing">Sparse Processing</a>
       <a href="#deep-learning">Deep Learning</a>
     </li>
