@@ -79,7 +79,7 @@ This project aims at listing milestones in phased array systems and related sign
 #### Wideband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-| 2015      | [SpotFi](https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf) | |
+| 2015      | [SpotFi](https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf) | Wideband verion of MUSIC |
 |       |         |    |
 |  |       |    |
 
