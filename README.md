@@ -65,7 +65,7 @@ This project aims at listing milestones in array signal processing algorithms.
 |  1969     | [MVDR/Capon](https://ieeexplore.ieee.org/document/1449208)     | Start of adaptive methods   |
 |  1972     | [LCMV](https://ieeexplore.ieee.org/document/1450747)     |    |
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
-| 2012      |   [Covariance Matrix Reconstruction](https://ieeexplore.ieee.org/abstract/document/6180020)    |  Reconstruct covariance matrix from sample matrix  |
+| 2012      |   [Covariance matrix reconstruction](https://ieeexplore.ieee.org/abstract/document/6180020)    |  Reconstruct covariance matrix from sample matrix  |
 |  |       |    |
 
 #### Wideband
@@ -83,8 +83,9 @@ This project aims at listing milestones in array signal processing algorithms.
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 |   2002    | [Convex](https://ieeexplore.ieee.org/document/558465) | QP and SOCP |
+| 2003      |  [Robust Capon and diagonal loading](https://ieeexplore.ieee.org/abstract/document/1206680)     | Formulate uncertain steering vectors  |
 |  2014     |   [MU Tx Beamforming](https://ieeexplore.ieee.org/document/6832894)      |    |
-|  |       |    |
+
 
 <!-- SPARSE -->
 ### Sparse Processing
