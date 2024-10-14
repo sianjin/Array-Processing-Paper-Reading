@@ -38,7 +38,8 @@ This project aims at listing milestones in array signal processing algorithms.
 | :------------ |:---------------:| :---------------:|
 | 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) | Mainly focus on subspace methods |
 |  2004     |  [Model-order selection: a review of information criterion rules](https://ieeexplore.ieee.org/document/1311138)       |  Estimate number of signals  |
-|  |       |    |
+| 2007 | [MIMO Radar with Colocated Antennas](https://ieeexplore.ieee.org/document/4350230)     |  MIMO radar  |
+| 2007 | [MIMO Radar with Widely Separated Antennas](https://ieeexplore.ieee.org/document/4408448)     | Distributed MIMO radar  |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
