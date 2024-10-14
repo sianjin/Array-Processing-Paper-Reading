@@ -42,13 +42,10 @@ This project aims at listing milestones in array signal processing algorithms.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## Super-Resolution
-
 <!-- COV -->
-### Covariance Matrix Based
+## Covariance Matrix Based
 
-#### Narrowband
+### Narrowband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 |  1969     | [MVDR/Capon](https://ieeexplore.ieee.org/document/1449208)     | Start of adaptive methods   |
@@ -57,7 +54,7 @@ This project aims at listing milestones in array signal processing algorithms.
 | 2012      |   [Covariance matrix reconstruction](https://ieeexplore.ieee.org/abstract/document/6180020)    |  Reconstruct covariance matrix from sample matrix  |
 |  |       |    |
 
-#### Wideband
+### Wideband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 | 2015      | [SpotFi](https://web.stanford.edu/~skatti/pubs/sigcomm15-spotfi.pdf) | Wideband verion of MUSIC |
@@ -67,17 +64,17 @@ This project aims at listing milestones in array signal processing algorithms.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Optimization -->
-### Optimization
+## Optimization
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 |   2002    | [Convex](https://ieeexplore.ieee.org/document/558465) | QP and SOCP |
 | 2003      |  [Robust Capon and diagonal loading](https://ieeexplore.ieee.org/abstract/document/1206680)     | Formulate uncertain steering vectors  |
 |  2014     |   [MU Tx Beamforming](https://ieeexplore.ieee.org/document/6832894)      | Optimal MU-MIMO Tx beamforming structure   |
-
+|   2014    | [Hybrid Beamforming](https://ieeexplore.ieee.org/document/6717211) |  |
 
 <!-- SPARSE -->
-### Sparse Processing
+## Sparse Processing
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
@@ -88,7 +85,7 @@ This project aims at listing milestones in array signal processing algorithms.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LEARNING -->
-### Deep Learning
+## Deep Learning
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
@@ -97,10 +94,6 @@ This project aims at listing milestones in array signal processing algorithms.
 |  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Interference Suppression
-
-### 
 
 <!-- CONTACT -->
 ## Contact
