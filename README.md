@@ -22,27 +22,6 @@
 -->
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-    </li>
-    <li>
-      <a href="#review">Review</a>
-    </li>
-    <li>
-      <a href="#covariance-matrix-based">Covariance Matrix Based</a>
-      <a href="#sparse-processing">Sparse Processing</a>
-      <a href="#deep-learning">Deep Learning</a>
-    </li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
