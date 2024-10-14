@@ -90,8 +90,8 @@ This project aims at listing milestones in array signal processing algorithms.
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-|   2018    | [Deep Learning for Super-Resolution Channel Estimation and DOA Estimation Based Massive MIMO System](https://ieeexplore.ieee.org/document/8400482) |  |
-|    2018   |  [Direction-of-Arrival Estimation Based on Deep Neural Networks With Robustness to Array Imperfections](https://ieeexplore.ieee.org/document/8485631)       |    |
+|   2018    | [Channel and DOA estimation in massive MIMO](https://ieeexplore.ieee.org/document/8400482) |  |
+|    2018   |  [DOA estimation with robustness to array imperfections](https://ieeexplore.ieee.org/document/8485631)       |    |
 |  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
