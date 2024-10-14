@@ -40,6 +40,7 @@ This project aims at listing milestones in array signal processing algorithms.
 |  2004     |  [Model-order selection: a review of information criterion rules](https://ieeexplore.ieee.org/document/1311138)       |  Estimate number of signals  |
 | 2007 | [MIMO Radar with Colocated Antennas](https://ieeexplore.ieee.org/document/4350230)     |  MIMO radar  |
 | 2008 | [MIMO Radar with Widely Separated Antennas](https://ieeexplore.ieee.org/document/4408448)     | Distributed MIMO radar  |
+|  2023     | [Twenty-Five Years of Advances in Beamforming: From convex and nonconvex optimization to learning techniques](https://ieeexplore.ieee.org/document/10144712)  | Optimization and learning|
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
