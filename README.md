@@ -71,6 +71,7 @@ This project aims at listing milestones in phased array systems and related sign
 #### Narrowband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
+|  1972     | [LCMV](https://ieeexplore.ieee.org/document/1450747)     |    |
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
 |       |         |    |
 |  |       |    |
