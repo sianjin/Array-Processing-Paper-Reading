@@ -29,10 +29,14 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    <li><a href="#review">Review</a></li>
-    <li><a href="#traditional-super-resolution">Traditional Super-Resolution</a></li>
-    <li><a href="#sparse-processing">Sparse Processing</a></li>
-    <li><a href="#deep-learning">Deep Learning</a></li>
+    <li>
+      <a href="#review">Review</a>
+    </li>
+    <li>
+      <a href="#traditional-super-resolution">Traditional Super-Resolution</a>
+      <a href="#sparse-processing">Sparse Processing</a>
+      <a href="#deep-learning">Deep Learning</a>
+    </li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
@@ -58,10 +62,20 @@ This project aims at listing milestones in phased array systems and related sign
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- DOA -->
-## Traditional Super-Resolution
 
-### Narrowband
+## Super-Resolution
+
+<!-- COV -->
+### Covariance Matrix Based Methods
+
+#### Narrowband
+| Year  | Name  | Short Description |
+| :------------ |:---------------:| :---------------:|
+| 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
+|       |         |    |
+|  |       |    |
+
+#### Wideband
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
@@ -71,7 +85,7 @@ This project aims at listing milestones in phased array systems and related sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SPARSE -->
-## Sparse Processing
+### Super-Resolution Based On Sparse Processing
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
@@ -82,7 +96,7 @@ This project aims at listing milestones in phased array systems and related sign
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LEARNING -->
-## Deep Learning
+### Deep Learning
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
