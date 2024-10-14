@@ -88,6 +88,7 @@ This project aims at listing milestones in phased array systems and related sign
 
 <!-- CONTACT -->
 ## Contact
+I'll keep on updating this page. If you have any suggestions, please feel free to contact me.
 
 Sian Jin - sianjin.mathworks@gmail.com
 
