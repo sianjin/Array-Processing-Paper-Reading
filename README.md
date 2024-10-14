@@ -31,17 +31,6 @@ This project aims at listing milestones in array signal processing algorithms.
 
 ## Overview
 
-<!-- Book -->
-### Book
-
-| Year  | Name  | Short Description |
-| :------------ |:---------------:| :---------------:|
-| 2002      | [Optimum Array Processing: Part IV of Detection, Estimation, and Modulation Theory](https://onlinelibrary.wiley.com/doi/book/10.1002/0471221104) |  |
-|       |         |    |
-|  |       |    |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- Review -->
 ### Review
 
