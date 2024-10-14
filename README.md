@@ -47,8 +47,8 @@ This project aims at listing milestones in phased array systems and related sign
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-| 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) |  |
-|  2004     |  [Model-order selection: a review of information criterion rules](https://ieeexplore.ieee.org/document/1311138)       |    |
+| 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) | Mainly focus on subspace methods |
+|  2004     |  [Model-order selection: a review of information criterion rules](https://ieeexplore.ieee.org/document/1311138)       |  Estimate number of signals  |
 |  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
