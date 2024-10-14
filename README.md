@@ -29,20 +29,10 @@ This project aims at listing milestones in phased array systems and related sign
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-<!-- Review -->
-## Review
-
-| Year  | Name  | Short Description |
-| :------------ |:---------------:| :---------------:|
-| 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) |  |
-|       |         |    |
-|  |       |    |
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+## Overview
 
 <!-- Book -->
-## Book
+### Book
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
@@ -51,6 +41,18 @@ This project aims at listing milestones in phased array systems and related sign
 |  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Review -->
+### Review
+
+| Year  | Name  | Short Description |
+| :------------ |:---------------:| :---------------:|
+| 1996      | [Two decades of array signal processing research: the parametric approach](https://ieeexplore.ieee.org/document/526899) |  |
+|  2004     |  [Model-order selection: a review of information criterion rules](https://ieeexplore.ieee.org/document/1311138)       |    |
+|  |       |    |
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## Super-Resolution
 
