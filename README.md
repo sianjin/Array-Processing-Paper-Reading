@@ -84,7 +84,7 @@ This project aims at listing milestones in array signal processing algorithms.
 | :------------ |:---------------:| :---------------:|
 |   2002    | [Convex](https://ieeexplore.ieee.org/document/558465) | QP and SOCP |
 | 2003      |  [Robust Capon and diagonal loading](https://ieeexplore.ieee.org/abstract/document/1206680)     | Formulate uncertain steering vectors  |
-|  2014     |   [MU Tx Beamforming](https://ieeexplore.ieee.org/document/6832894)      |    |
+|  2014     |   [MU Tx Beamforming](https://ieeexplore.ieee.org/document/6832894)      | Optimal MU-MIMO Tx beamforming structure   |
 
 
 <!-- SPARSE -->
