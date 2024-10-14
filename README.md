@@ -92,7 +92,7 @@ This project aims at listing milestones in array signal processing algorithms.
 | :------------ |:---------------:| :---------------:|
 |   2018    | [Channel and DOA estimation in massive MIMO](https://ieeexplore.ieee.org/document/8400482) |  |
 |    2018   |  [DOA estimation with robustness to array imperfections](https://ieeexplore.ieee.org/document/8485631)       |    |
-|  |       |    |
+| 2021      |  [DOA estimation in Low SNR](https://ieeexplore.ieee.org/document/9457195)      |   |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
