@@ -92,7 +92,7 @@ This project aims at listing milestones in array signal processing algorithms.
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-|   2010    | [IAA](https://ieeexplore.ieee.org/abstract/document/5417172) |  |
+|   2010    | [IAA](https://ieeexplore.ieee.org/abstract/document/5417172) | Super-resolution in single snapshot |
 |       |         |    |
 |  |       |    |
 
