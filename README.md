@@ -63,7 +63,7 @@ This project aims at listing milestones in array signal processing algorithms.
 |  1969     | [MVDR/Capon](https://ieeexplore.ieee.org/document/1449208)     | Start of adaptive methods   |
 |  1972     | [LCMV](https://ieeexplore.ieee.org/document/1450747)     |  Extend MVDR with multiple constrains  |
 | 1986      | [MUSIC](https://ieeexplore.ieee.org/abstract/document/1143830) | First subspace method |
-| 1989      |   [ESPRIT](https://ieeexplore.ieee.org/document/32276)    |    |
+| 1989      |   [ESPRIT](https://ieeexplore.ieee.org/document/32276)    |  Subspace method assuming ULA  |
 | 2012      |   [Covariance matrix reconstruction](https://ieeexplore.ieee.org/abstract/document/6180020)    |  Reconstruct covariance matrix from sample matrix  |
 
 ### Wideband
