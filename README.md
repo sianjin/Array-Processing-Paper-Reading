@@ -36,7 +36,7 @@ This project aims at listing milestones in array signal processing algorithms.
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-| 1988      | [Beamforming](https://ieeexplore.ieee.org/document/665) | Narrow band and wideband spatial filtering |
+| 1988      | [Beamforming](https://ieeexplore.ieee.org/document/665) | Narrowband and wideband spatial filtering |
 | 1996      | [Two decades of array signal processing research](https://ieeexplore.ieee.org/document/526899) | Mainly focus on subspace methods |
 |  2004     |  [Model-order selection](https://ieeexplore.ieee.org/document/1311138)       |  Estimate number of signals  |
 | 2007 | [MIMO Radar with Colocated Antennas](https://ieeexplore.ieee.org/document/4350230)     |  MIMO radar  |
