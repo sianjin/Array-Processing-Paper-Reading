@@ -55,7 +55,7 @@ This project aims at listing milestones in array signal processing algorithms.
 
 
 
-## Covariance Matrix Based
+## Covariance Based
 
 ### Narrowband
 | Year  | Name  | Short Description |
