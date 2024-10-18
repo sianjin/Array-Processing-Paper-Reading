@@ -90,8 +90,8 @@ This project aims at listing milestones in array signal processing algorithms.
 
 | Year  | Name  | Short Description |
 | :------------ |:---------------:| :---------------:|
-|   2010    | [IAA](https://ieeexplore.ieee.org/abstract/document/5417172) | Nonparametric, super-resolution, reconstructing pseudo covariance |
-|   2011    |   [SPICE](https://ieeexplore.ieee.org/document/5617289)      | Nonparametric, super-resolutio, covariance fitting  |
+|   2010    | [IAA](https://ieeexplore.ieee.org/abstract/document/5417172) | Nonparametric, reconstructing pseudo covariance |
+|   2011    |   [SPICE](https://ieeexplore.ieee.org/document/5617289)      | Nonparametric, covariance fitting  |
 |  |       |    |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
